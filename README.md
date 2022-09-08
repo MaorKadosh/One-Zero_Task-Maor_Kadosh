@@ -42,6 +42,6 @@ Maor Kadosh
 ## Version History
 
 * 0.2
-    * See [commit change]() or See [release history]()
+    * See [commit change](https://github.com/MaorKadosh/One-Zero_Task-Maor_Kadosh/commits/master) or See [release history]()
 * 0.1
     * Initial Release
